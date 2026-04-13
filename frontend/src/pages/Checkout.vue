@@ -1,0 +1,1 @@
+<template>Checout page</template>
