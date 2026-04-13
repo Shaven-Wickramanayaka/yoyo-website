@@ -32,6 +32,11 @@ app.MapGet("/weatherforecast", () =>
     return forecast;
 })
 .WithName("GetWeatherForecast");
+app.MapGet("/message", () =>
+{
+    var message = "Hello World!";
+    return message;
+}).WithName("Message");
 
 app.Run();
 
