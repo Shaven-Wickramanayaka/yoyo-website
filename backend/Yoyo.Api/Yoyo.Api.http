@@ -1,0 +1,6 @@
+@Yoyo.Api_HostAddress = http://localhost:5234
+
+GET {{Yoyo.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

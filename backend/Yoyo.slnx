@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Yoyo.Api/Yoyo.Api.csproj" />
+  <Project Path="Yoyo.Application/Yoyo.Application.csproj" />
+  <Project Path="Yoyo.Domain/Yoyo.Domain.csproj" />
+  <Project Path="Yoyo.Infrastructure/Yoyo.Infrastructure.csproj" />
+</Solution>
