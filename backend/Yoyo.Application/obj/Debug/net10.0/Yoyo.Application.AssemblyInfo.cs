@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Yoyo.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e0356871b70a733853b39c405173c78a7f5465d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b05507170b055e81af273ff08fd8579525947c68")]
 [assembly: System.Reflection.AssemblyProductAttribute("Yoyo.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Yoyo.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
