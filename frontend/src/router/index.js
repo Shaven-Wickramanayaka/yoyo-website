@@ -2,6 +2,8 @@ import { createRouter, createWebHistory } from "vue-router";
 // Use pages instead of views
 import Home from "../pages/Home.vue";
 import Collections from "../pages/Collections.vue";
+import Checkout from "../pages/Checkout.vue";
+import Profile from "../pages/Profile.vue";
 
 const routes = [
   { path: "/", name: "Home", component: Home },
